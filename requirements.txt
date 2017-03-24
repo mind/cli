@@ -1,0 +1,9 @@
+# Dependencies
+requests==2.13.0
+
+# Test dependencies
+pdbpp
+flake8
+pytest
+pytest-cov
+mock
